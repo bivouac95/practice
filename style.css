@@ -110,8 +110,10 @@ main{
 }
 
 .bottom_frames__right{
+    display: flex;
     flex-direction: column;
     min-height: 860px;
+    height: auto;
     justify-content: space-between;
 }
 
@@ -119,6 +121,7 @@ main{
     display: flex;
     flex-direction: column;
     min-height: 860px;
+    height: auto;
     justify-content: space-between;
 }
 
