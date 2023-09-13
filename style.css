@@ -96,10 +96,11 @@ main{
 .bottom_frames{
     display: flex;
     justify-content: space-between;
-}
+}g
 
 .red-box--bottom{
     height: 680px;
+    max-height: 700px;
     max-width: 450px;
     padding: 0px 10px 0px 10px;
     justify-content: space-between;
