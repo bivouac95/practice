@@ -95,8 +95,9 @@ main{
 
 .bottom_frames{
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
-}g
+}
 
 .red-box--bottom{
     height: 680px;
