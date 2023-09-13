@@ -24,22 +24,22 @@ main{
     height: 50px;
 }
 
-.frame__header--left1{
+.frame__header--left_up{
     width: 360px;
     height: 40px;
 }
 
-.frame__header--left2{
+.frame__header--left_down{
     width: 400px;
     height: 75px;
 }
 
-.frame__header--right1{
+.frame__header--right_up{
     width: 360px;
     height: 40px;
 }
 
-.frame__header--right2{
+.frame__header--right_down{
     width: 400px;
     height: 85px;
 }
