@@ -100,8 +100,7 @@ main{
 }
 
 .red-box--bottom{
-    height: 680px;
-    max-height: 700px;
+    height: auto;
     max-width: 450px;
     padding: 0px 10px 0px 10px;
     justify-content: space-between;
@@ -113,7 +112,6 @@ main{
     display: flex;
     flex-direction: column;
     min-height: 860px;
-    height: auto;
     justify-content: space-between;
 }
 
@@ -121,7 +119,6 @@ main{
     display: flex;
     flex-direction: column;
     min-height: 860px;
-    height: auto;
     justify-content: space-between;
 }
 
